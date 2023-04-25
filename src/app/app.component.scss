@@ -1,0 +1,14 @@
+main {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  section {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+
+  }
+
+}
